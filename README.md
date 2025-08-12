@@ -1,6 +1,6 @@
-# Awesome Cesium
+# CesiumJS Resources
 
-Awesome lists of links of CesiumJS related techniques.
+lists of links of CesiumJS related resources.
 
 ## Official Site
 
