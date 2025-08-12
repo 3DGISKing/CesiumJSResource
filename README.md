@@ -125,5 +125,3 @@ https://github.com/YanzheZhang/Cesium.HPUZYZ.Demo
 https://github.com/hujiulin/CesiumJS-tutorial  
 https://github.com/ZhiminXu/AwesomeCesium
 https://github.com/AJJackGIS/learning_cesium
-
-check to https://github.com/search?q=cesium&type=repositories&s=stars&o=desc&p=5
