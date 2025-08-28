@@ -14,6 +14,13 @@ https://cesium.com/docs/cesiumjs-ref-doc/
 
 https://sandcastle.cesium.com/
 
+## Official CDN
+https://cesium.com/downloads/cesiumjs/releases/(Version)/Build/Cesium/Cesium.js
+https://cesium.com/downloads/cesiumjs/releases/(Version)/Build/CesiumUnminified/Cesium.js
+https://cesium.com/downloads/cesiumjs/releases/(Version)/Build/Cesium/Widgets/widgets.css
+https://sandcastle.cesium.com/Sandcastle-header.js
+https://sandcastle.cesium.com/templates/bucket.css
+
 ## Source Repository
 
 https://github.com/CesiumGS/cesium
