@@ -40,6 +40,7 @@ https://github.com/CesiumGS/3d-tiles
 | https://github.com/geo-data/cesium-terrain-server                              | 300  |
 | https://github.com/ahuarte47/cesium-terrain-builder/tree/master-quantized-mesh | 269  |
 | https://github.com/heremaps/quantized-mesh-viewer                              | 198  |
+| https://github.com/Gaia3D/mago-3d-terrainer                                    | 89   |
 | https://github.com/giohappy/gdal2cesium                                        | 89   |
 | https://github.com/xlhomme/WCSTerrainProvider                                  | 26   |
 | https://github.com/TNOCS/mbtiles-terrain-server                                | 8    |
