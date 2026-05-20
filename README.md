@@ -44,7 +44,11 @@ https://github.com/CesiumGS/3d-tiles
 | https://github.com/xlhomme/WCSTerrainProvider                                  | 26   |
 | https://github.com/TNOCS/mbtiles-terrain-server                                | 8    |
 
-## 3DTiles
+## 3D Tiles Resource
+
+https://github.com/CesiumGS/3d-tiles/blob/main/RESOURCES.md
+
+## 3D Tiles Generators
 
 | Link                                                    | Star |
 | ------------------------------------------------------- | ---- |
@@ -71,8 +75,8 @@ https://github.com/CesiumGS/3d-tiles
 
 Screenshots use the first non-badge image from each repo’s default-branch `README` (see `scripts/sync_readme_screenshots.py`). Rows with no suitable image are left empty unless you add a manual thumbnail.
 
-| Link                                                             | Accessed | Star | Screenshot                                                               |
-| ---------------------------------------------------------------- | -------- | ---- | ------------------------------------------------------------------------ |
+| Link                                                             | Accessed | Star | Screenshot                                                                                                                                         |
+| ---------------------------------------------------------------- | -------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | https://github.com/NASA-AMMOS/3DTilesRendererJS                  | May 2026 | 2308 | <img src="https://raw.githubusercontent.com/NASA-AMMOS/3DTilesRendererJS/HEAD/images/header-mars.png" width="200" alt="">                          |
 | https://github.com/TerriaJS/terriajs                             | May 2026 | 1324 | <img src="https://raw.githubusercontent.com/TerriaJS/terriajs/HEAD/terria-logo.png" width="200" alt="">                                            |
 | https://github.com/MikesWei/CesiumMeshVisualizer                 | May 2026 | 760  | <img src="https://os.mesh-3d.com/meshvis/App/demo/CSG/screenshot.jpg" width="200" alt="">                                                          |
